@@ -6,10 +6,18 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'My Docs',
+			title: 'Bisatopup Docs',
+			logo : {
+				src : "./src/assets/im_btudoc_logo.png",
+				replacesTitle : true
+			},
 			social: {
 				github: 'https://github.com/withastro/starlight',
 			},
+			customCss: [
+				// Relative path to your custom CSS file
+				'./src/styles/custom.css',
+			],
 			sidebar: [
 				{
 					label: 'Guides',
