@@ -1,6 +1,6 @@
 ---
 title: Tentang Bisatopup
-description: A guide in my new Starlight docs site.
+description: Dokumentasi Interaktif Bisatopup
 ---
 
 بسم الله الرحمن الرحيم 

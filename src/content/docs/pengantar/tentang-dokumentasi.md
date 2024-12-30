@@ -1,6 +1,6 @@
 ---
 title: Tentang Dokumentasi
-description: A guide in my new Starlight docs site.
+description: Dokumentasi Interaktif Bisatopup
 ---
 
 ## Pengantar Dokumentasi Bisatopup

@@ -1,6 +1,6 @@
 ---
 title: Pengantar Android
-description: A guide in my new Starlight docs site.
+description: Dokumentasi Interaktif Bisatopup
 ---
 ## Pengantar Proyek Android Bisatopup
 

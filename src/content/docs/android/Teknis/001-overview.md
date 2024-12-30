@@ -1,6 +1,6 @@
 ---
 title: Pendahuluan dan Overview Bisatopup
-description: A guide in my new Starlight docs site.
+description: Dokumentasi Interaktif Bisatopup
 ---
 
 ## **Awal Project**

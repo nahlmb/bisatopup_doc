@@ -1,6 +1,6 @@
 ---
 title: Prinsip
-description: A guide in my new Starlight docs site.
+description: Dokumentasi Interaktif Bisatopup
 ---
 
 Pada pengembangan projek, kita memiliki nilai-nilai atau prinsip yang menjadi acuan seperti apa kode harus ditulis. Prinsip ini yang dielaborasikan kemudian pada penulisan kodingan. 
